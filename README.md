@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ritik Maurya</h1>
-<h3 align="center">A Data Science Student</h3>
+<h1 align="center">Hi 👋, I'm Vatsal Mistry</h1>
+<h3 align="center">A Software Engineer Student</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritigit7" alt="ritigit7" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ritigit7](https://github.com/ritigit7)
 
-- 📫 How to reach me **ritikm01092003@gmail.com**
+- 📫 How to reach me **vatsalmistry206@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HDhxrSmuuNiTtj-EHfVFHP4rm6MbiPRs/view?usp=drive_link](https://drive.google.com/file/d/1HDhxrSmuuNiTtj-EHfVFHP4rm6MbiPRs/view?usp=drive_link)
 
