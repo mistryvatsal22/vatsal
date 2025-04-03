@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently study at LD College of Engineering [Movie Recommendation](https://github.com/ritigit7/Python/tree/main/Include/Movie%20Recomandation)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ritigit7](https://github.com/ritigit7)
+- 👨‍💻 All of my projects are available at [https://github.com/mistryvatsal22](https://github.com/mistryvatsal22)
 
 - 📫 How to reach me **vatsalmistry206@gmail.com**
 
