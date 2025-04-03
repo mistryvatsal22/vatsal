@@ -1,12 +1,12 @@
 # Hi 👋, I'm Vatsal Mistry
-### A Data Science Enthusiast
+### A Software Developer
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mistryvatsal22)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔬 I’m currently studying at LD College of Engineering  
 - 📂 My projects are available at [GitHub](https://github.com/mistryvatsal22)  
-- 📧 Reach me at **your-email@example.com**  
-- 📄 Know more about my experiences [Resume](#) (Replace with actual link)  
+- 📧 Reach me at **vatsalmistry206@gmail.com**  
+- 📄 Know more about my experiences [Resume](#) ()  
 
 ## Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter)  
