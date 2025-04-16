@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vatsal Mistry</h1>
-<h3 align="center">A Passionate Software Developer & Data Enthusiast</h3>
+<h3 align="center">A Passionate Software Developer </h3>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
